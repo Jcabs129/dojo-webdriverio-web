@@ -1,7 +1,7 @@
 
 GIVEN i Navigate to https://account.dojo.tech/
 THEN should validate the logo 'dojo'
-And Should validate url containg /login
+And Should validate url containing '/login'
 
 GIVEN I land on Login page
 WHEN I navigate to forgot password page
